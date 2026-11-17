@@ -1,0 +1,8 @@
+{
+  "title": "Learn & Grow",
+  "description": "A colourful, accessible learning assistant for alphabets, numbers, colours, and shapes.",
+  "language": "en",
+  "accessibility": {
+    "addBypassLinks": true
+  }
+}
